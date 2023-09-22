@@ -1,0 +1,50 @@
+html {
+    font-family: "Lato",sans-serif;
+    box-sizing: border-box;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%
+}
+
+body {
+    margin: 0;
+    line-height: 1.5
+}
+
+article,aside,footer,header,nav,section {
+    display: block
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif; 
+}
+
+
+h1 {
+    font-size: 2em
+}
+
+h1,h2,h3,h4 {
+    line-height: 1.2
+}
+
+figcaption,figure,main {
+    display: block
+}
+
+main#main {
+}
+
+figure {
+    margin: 1rem 0 1.5rem
+}
+
+hr {
+    height: 0;
+    overflow: visible;
+    box-sizing: content-box
+}
+
+p{
+    color: #0A042E;
+    text-align: justify;
+    
+}
